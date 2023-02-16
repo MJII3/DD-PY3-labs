@@ -5,10 +5,10 @@
   Для этого необходимо нажать кнопку "Use this template".  
     <img width="163" alt="image" src="https://user-images.githubusercontent.com/14962819/194048820-c2f9941d-29f6-4d35-b6a8-7060de43111d.png">
 1. Заполнить поля **Repository name** и **Description** согласно заданными требованиям и нажать кнопку "Create repository from template".  
-    <img width="683" alt="image" src="https://user-images.githubusercontent.com/14962819/194052658-23c1ecb3-6ca8-4130-87f1-64aa565df1e9.png">
+    <img width="683" alt="image" src="https://user-images.githubusercontent.com/14962819/219368586-379750be-0bde-47c4-b863-ba0b710b3000.png">
 
 ## Как работать с репозиторием
-1. Чтобы загрузить задание необходимо перейти в папку с лабораторной, для которой было выполнено задание. 
+1. Чтобы сдавать лабораторные работы на проверку необходимо скопировать url 
 1. Выбрать "Add file" в котором выбрать пункт "Upload files". 
     ![image](https://user-images.githubusercontent.com/14962819/194053530-96926758-eb44-44c1-953d-a8be0fc9c5f6.png)
 1. Загрузить **один файл c названием main.py**.  Для этого перенести его мышкой в появившееся поле браузера    
